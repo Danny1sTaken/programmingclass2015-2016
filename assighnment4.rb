@@ -5,3 +5,4 @@ money = gets.to_i
 puts "how many weeks do i work?"
 weeks = gets.to_i
 salary = hours * money * weeks
+puts "you will earn #{salary}"
